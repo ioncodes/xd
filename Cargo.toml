@@ -1,0 +1,8 @@
+[package]
+name = "xd"
+version = "0.1.0"
+authors = ["ion <ionix@protonmail.com>"]
+
+[dependencies]
+flate2 = "*"
+clap = "*"
